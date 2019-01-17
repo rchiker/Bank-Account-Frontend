@@ -10,6 +10,7 @@ export class DepositComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    console.log("deposit")
   }
 
 }
